@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  max-height: 10em;
+  color: #fff;
+  background-image: linear-gradient(to right, #5e055e, #a506a5);
+  padding: 0 3em;
+}
+
+.header__title {
+  font-size: 1.5rem;
+  margin-left: 0.5em;
+}
+
+.header__text {
+  font-weight: 700;
+  justify-self: flex-end;
+  margin-left: auto;
+}
